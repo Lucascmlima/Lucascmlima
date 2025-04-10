@@ -1,58 +1,56 @@
-<h1 align="center">👋 Olá, eu sou o Lucas C. M. Lima</h1>
+# 👋 Olá, eu sou Lucas C. M. Lima!
 
-<p align="center">
-🚀 Full Stack Developer em formação na 42 Lisboa <br>
-🎯 Foco: Soluções para o mercado empresarial <br>
-🌍 Base em Lisboa, disponível para toda a União Europeia
-</p>
+Concluí o Piscine Reload da 42 Lisboa e estou iniciando meu primeiro projeto oficial como aluno da 42, focado na construção de soluções para o mercado empresarial.
+
+Formado em Psicologia, transicionando para a tecnologia com uma paixão por desenvolvimento full stack. Estou sempre em busca de novos desafios e acredito que a aprendizagem contínua é a chave para o crescimento profissional e pessoal.
 
 ---
 
-## 🧩 Sobre mim
+## 💼 Sobre Mim
 
-- 🎓 Formado em Psicologia
-- 🎨 Certificado em Adobe Master Collection
-- 🌐 Inglês avançado (2 anos de intercâmbio em Dublin)
-- 🧩 Experiência em design gráfico e liderança de cozinha internacional
-- 💼 Experiência com projetos sociais e atuação clínica como psicólogo
-
----
-
-## 🚀 O que estou construindo
-
-- 📚 Estudante na 42 Lisboa — Piscine Reload em andamento
-- 🤝 Aberto para trabalhos voluntários e projetos colaborativos
-- 🛠️ Sempre em aprendizado contínuo (próximas formações a caminho!)
+- 🌍 Atualmente em: Lisboa, Portugal 🇵🇹
+- 🚀 Foco atual: Formação full stack na 42 Lisboa
+- 🎯 Objetivo: Desenvolvimento empresarial e soluções eficientes
+- 🤝 Aberto para: Trabalhos voluntários e oportunidades na União Europeia
+- 🛠️ Skills adicionais: Adobe Master Collection, Design Gráfico (básico)
+- 🎓 Experiência internacional: 2 anos de intercâmbio de inglês em Dublin 🇮🇪
+- 🍳 Experiência extra: Chefe de cozinha na Irlanda, projetos sociais e atuação como psicólogo
 
 ---
 
-## 🌟 Skills
+## 🧩 Tecnologias e Ferramentas
 
-- **Frontend:** HTML5 | CSS3 | JavaScript  
-- **Backend:** Em progresso na 42  
-- **Ferramentas:** Git | GitHub | Adobe Suite  
-- **Idiomas:** Português | Inglês fluente  
-
----
-
-## 📬 Contato
-
-- ✉️ lucascml.dev@outlook.com
-- 🔗 LinkedIn (em breve!)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
 
-## 🏆 GitHub Stats & Badges
+## 💌 Contato Profissional
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascml&show_icons=true&theme=radical" alt="Lucas GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascml&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascml&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+- 📧 E-mail: [lucascml.dev@outlook.com](mailto:lucascml.dev@outlook.com)
 
 ---
 
-## 🚀 "Construir é aprender!"
+## 🌟 Status e Contribuições
 
-> "Vejo cada projeto como um degrau para a minha transformação profissional. Estou sempre aberto para novas conexões e desafios!"
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascmlima&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmlima&layout=compact&theme=radical)
+
+---
+
+## 🧠 Hobbies e Curiosidades
+
+- 🎮 Jogos online e animes nas horas vagas
+- 🍿 Apaixonado por séries e filmes
+- 🤝 Muito sociável, adoro interagir com pessoas e aprender em equipe
+
+---
+
+## 💡 Frase de Impacto
+
+> "Desafios são oportunidades disfarçadas. Cada linha de código me aproxima do futuro que estou construindo."
+
+---
 
