@@ -1,73 +1,64 @@
-<h1 align="center">👋 Olá, eu sou o Lucas C M Lima</h1>
-<h3 align="center">Psicólogo de formação | Futuro Full Stack Developer | Foco em soluções empresariais</h3>
-
----
+<!-- HEADER CENTRALIZADO COM ESTILO ELEGANT DARK -->
+<h1 align="center">🌟 Lucas CML | Full Stack Developer em formação 🌟</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucascml&label=Profile%20views&color=0e75b6&style=flat" alt="lucascml" />
+  🚀 Estudante da 42 Lisboa <br>
+  💼 Focado em desenvolvimento para o mercado empresarial <br>
+  🌍 Disponível para oportunidades em toda a União Europeia <br>
+  📫 lucascml.dev@outlook.com
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
-- 🎓 **Formação:** Psicologia (complementar: Adobe Master Collection)
-- 🌍 **Localização atual:** Lisboa, Portugal (disponível para toda a UE)
-- 🚀 **Estudos atuais:** Formação Full Stack na 42 Lisboa
-- 🎯 **Objetivo:** Desenvolvimento empresarial com foco em soluções profissionais e eficientes
-- 💡 **Extra:** Sempre aprendendo! Aberto a projetos voluntários para crescimento contínuo
-- ✉️ **Contato profissional:** [lucascml.dev@outlook.com](mailto:lucascml.dev@outlook.com)
-
----
-
-## 🔧 Habilidades & Ferramentas
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🎓 **Formado em Psicologia** com ampla experiência em projetos sociais e atendimento clínico.
+- 🧩 **Em transição para a tecnologia**, atualmente cursando a 42 Lisboa para me tornar Full Stack Developer.
+- 🎯 Foco em soluções empresariais, desenvolvimento profissional contínuo e crescimento constante.
+- 🏗️ Próximo objetivo: concluir minha formação na 42 e iniciar uma nova especialização enquanto atuo na área.
+- 🌍 Disponível para **trabalhos voluntários** e projetos que enriqueçam meu portfólio.
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📂 Experiências Profissionais
+
+- 🧠 Psicólogo clínico e em ONGs sociais
+- 🍳 Chefe de cozinha durante intercâmbio na Irlanda
+- 🎨 Experiência adicional como designer gráfico (Adobe Master Collection)
+
+---
+
+## 🌱 Formação Acadêmica & Extra
+
+- 🎓 Graduação em Psicologia
+- 🖥️ Adobe Master Collection (Design Gráfico)
+- 🇮🇪 Intercâmbio de 2 anos em Dublin, Irlanda (Inglês fluente)
+
+---
+
+## 🎮 Hobbies & Interesses
+
+- 🎬 Apaixonado por séries, filmes e animes
+- 🕹️ Entusiasta de jogos online
+- 🤝 Sociável e comunicativo, adoro interagir e trabalhar em equipe
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- 💻 **Linguagens principais:** C, JavaScript
+- 🎨 Adobe Photoshop, Illustrator, After Effects
+- 🔧 Git, GitHub, VSCode
+
+---
+
+## 📫 Contato
+
+- 📧 **Email profissional:** lucascml.dev@outlook.com
+- 💼 LinkedIn: *Em construção para integração futura!*
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascml&show_icons=true&theme=dark&hide_border=true" alt="lucascml stats" />
+  Obrigado por visitar meu portfólio! 🚀
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascml&theme=dark&hide_border=true" alt="lucascml streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascml&layout=compact&langs_count=6&theme=dark&hide_border=true&langs=javascript,c" alt="lucascml languages" />
-</p>
-
----
-
-## 🚀 Em progresso
-
-- 📖 **Aprendendo:** Full Stack Development
-- 🏗️ **Projetos atuais:** Primeiro projeto como aluno oficial na 42 Lisboa
-- 🤝 **Aberto a:** Projetos voluntários e colaborações
-
----
-
-## 🎮 Hobbies
-
-- 🎥 Séries, filmes e animes
-- 🎮 Jogos online
-- 🗣️ Socializar e aprender em comunidade
-
----
-
-## 🌐 Futuro
-
-- 🛠️ Após GitHub: vamos construir um LinkedIn profissional alinhado
-- 🎯 Foco total em crescer como desenvolvedor e contribuir em projetos de impacto
-
----
-
-<p align="center">Feito com dedicação por Lucas Carvalho Miranda Lima 🚀</p>
