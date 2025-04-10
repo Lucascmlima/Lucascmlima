@@ -1,20 +1,29 @@
-👋 Olá, eu sou Lucas C. M. Lima!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Lucas%20Carvalho%20Miranda%20Lima&fontSize=30&fontAlign=50&fontColor=ffffff" alt="Lucas Carvalho Miranda Lima" />
+</p>
 
-Concluí o Piscine Reload da 42 Lisboa e estou iniciando meu primeiro projeto oficial como aluno da 42, focado na construção de soluções para o mercado empresarial.
+<h3 align="center">👋 Bem-vindo ao meu GitHub!</h3>
 
-Formado em Psicologia, transicionando para a tecnologia com uma paixão por desenvolvimento full stack. Estou sempre em busca de novos desafios e acredito que a aprendizagem contínua é a chave para o crescimento profissional e pessoal.
+<p align="center">
+  Sou Lucas Carvalho Miranda Lima — desenvolvedor em formação na 42 Lisboa, apaixonado por tecnologia, soluções empresariais e pelo poder da aprendizagem contínua.
+</p>
+
+<p align="center">
+  <em>"Desafios são oportunidades disfarçadas. Cada linha de código me aproxima do futuro que estou construindo."</em>
+</p>
 
 ---
 
 ## 💼 Sobre Mim
 
-- 🌍 Atualmente em: Lisboa, Portugal 🇵🇹
-- 🚀 Foco atual: Formação full stack na 42 Lisboa
-- 🎯 Objetivo: Desenvolvimento empresarial e soluções eficientes
-- 🤝 Aberto para: Trabalhos voluntários e oportunidades na União Europeia
-- 🛠️ Skills adicionais: Adobe Master Collection, Design Gráfico (básico)
-- 🎓 Experiência internacional: 2 anos de intercâmbio de inglês em Dublin 🇮🇪
-- 🍳 Experiência extra: Chefe de cozinha na Irlanda, projetos sociais e atuação como psicólogo
+- 🌍 Baseado em Lisboa, disponível para trabalhar em qualquer país da União Europeia 🇪🇺
+- 🚀 Formação: Estudante de Full Stack na 42 Lisboa
+- 🎯 Foco: Desenvolvimento de soluções para o mercado empresarial
+- 🤝 Aberto a: Trabalhos voluntários para enriquecer o portfólio
+- 🎓 Formação acadêmica: Psicologia, Adobe Master Collection
+- 🌐 Experiência internacional: 2 anos de intercâmbio de inglês em Dublin 🇮🇪
+- 🧩 Skills adicionais: Design gráfico (nível básico)
+- 🍳 Experiência extra: Chefe de cozinha na Irlanda, psicólogo e atuação em ONGs
 
 ---
 
@@ -47,10 +56,3 @@ Formado em Psicologia, transicionando para a tecnologia com uma paixão por dese
 - 🤝 Muito sociável, adoro interagir com pessoas e aprender em equipe
 
 ---
-
-## 💡 Frase de Impacto
-
-> "Desafios são oportunidades disfarçadas. Cada linha de código me aproxima do futuro que estou construindo."
-
----
-
