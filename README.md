@@ -5,7 +5,7 @@
 <h3 align="center">👋 Bem-vindo ao meu GitHub!</h3>
 
 <p align="center">
-  Sou Lucas Carvalho Miranda Lima — desenvolvedor em formação na 42 Lisboa, apaixonado por tecnologia, soluções empresariais e pelo poder da aprendizagem contínua.
+  Sou Lucas Carvalho — desenvolvedor em formação na 42 Lisboa, apaixonado por tecnologia, soluções empresariais e pelo poder da aprendizagem contínua.
 </p>
 
 <p align="center">
