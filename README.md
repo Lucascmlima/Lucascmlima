@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Olá, eu sou Lucas C. M. Lima!
+👋 Olá, eu sou Lucas C. M. Lima!
 
 Concluí o Piscine Reload da 42 Lisboa e estou iniciando meu primeiro projeto oficial como aluno da 42, focado na construção de soluções para o mercado empresarial.
 
