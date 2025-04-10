@@ -1,58 +1,72 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Lucas%20Carvalho%20Miranda%20Lima&fontSize=30&fontAlign=50&fontColor=ffffff" alt="Lucas Carvalho Miranda Lima" />
-</p>
+<h1 align="center">👋 Olá, eu sou o Lucas Carvalho Miranda Lima</h1>
+<h3 align="center">Psicólogo de formação | Futuro Full Stack Developer | Foco em soluções empresariais</h3>
 
-<h3 align="center">👋 Bem-vindo ao meu GitHub!</h3>
-
-<p align="center">
-  Sou Lucas Carvalho — desenvolvedor em formação na 42 Lisboa, apaixonado por tecnologia, soluções empresariais e pelo poder da aprendizagem contínua.
-</p>
+---
 
 <p align="center">
-  <em>"Desafios são oportunidades disfarçadas. Cada linha de código me aproxima do futuro que estou construindo."</em>
+  <img src="https://komarev.com/ghpvc/?username=lucascml&label=Profile%20views&color=0e75b6&style=flat" alt="lucascml" />
 </p>
 
 ---
 
-## 💼 Sobre Mim
+## 🧑‍💻 Sobre mim
 
-- 🌍 Baseado em Lisboa, disponível para trabalhar em qualquer país da União Europeia 🇪🇺
-- 🚀 Formação: Estudante de Full Stack na 42 Lisboa
-- 🎯 Foco: Desenvolvimento de soluções para o mercado empresarial
-- 🤝 Aberto a: Trabalhos voluntários para enriquecer o portfólio
-- 🎓 Formação acadêmica: Psicologia, Adobe Master Collection
-- 🌐 Experiência internacional: 2 anos de intercâmbio de inglês em Dublin 🇮🇪
-- 🧩 Skills adicionais: Design gráfico (nível básico)
-- 🍳 Experiência extra: Chefe de cozinha na Irlanda, psicólogo e atuação em ONGs
+- 🎓 **Formação:** Psicologia (complementar: Adobe Master Collection)
+- 🌍 **Localização atual:** Lisboa, Portugal (disponível para toda a UE)
+- 🚀 **Estudos atuais:** Formação Full Stack na 42 Lisboa
+- 🎯 **Objetivo:** Desenvolvimento empresarial com foco em soluções profissionais e eficientes
+- 💡 **Extra:** Sempre aprendendo! Aberto a projetos voluntários para crescimento contínuo
+- ✉️ **Contato profissional:** [lucascml.dev@outlook.com](mailto:lucascml.dev@outlook.com)
 
 ---
 
-## 🧩 Tecnologias e Ferramentas
+## 🔧 Habilidades & Ferramentas
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 💌 Contato Profissional
+## 📊 Estatísticas GitHub
 
-- 📧 E-mail: [lucascml.dev@outlook.com](mailto:lucascml.dev@outlook.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascml&show_icons=true&theme=dark&hide_border=true" alt="lucascml stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascml&theme=dark&hide_border=true" alt="lucascml streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascml&layout=compact&theme=dark&hide_border=true" alt="lucascml languages" />
+</p>
+
+---
+
+## 🚀 Em progresso
+
+- 📖 **Aprendendo:** Full Stack Development
+- 🏗️ **Projetos atuais:** Primeiro projeto como aluno oficial na 42 Lisboa
+- 🤝 **Aberto a:** Projetos voluntários e colaborações
 
 ---
 
-## 🌟 Status e Contribuições
+## 🎮 Hobbies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascmlima&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmlima&layout=compact&theme=radical)
+- 🎥 Séries, filmes e animes
+- 🎮 Jogos online
+- 🗣️ Socializar e aprender em comunidade
+
+---
+
+## 🌐 Futuro
+
+- 🛠️ Após GitHub: vamos construir um LinkedIn profissional alinhado
+- 🎯 Foco total em crescer como desenvolvedor e contribuir em projetos de impacto
 
 ---
 
-## 🧠 Hobbies e Curiosidades
-
-- 🎮 Jogos online e animes nas horas vagas
-- 🍿 Apaixonado por séries e filmes
-- 🤝 Muito sociável, adoro interagir com pessoas e aprender em equipe
-
----
+<p align="center">Feito com dedicação por Lucas Carvalho Miranda Lima 🚀</p>
